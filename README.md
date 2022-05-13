@@ -1,6 +1,6 @@
-## Hello Everyone!!! 👋
+### Hello Everyone! ***I'm Ricardo*** 👋😎
 
-### console.log('My name is Ricardo');
+
 
 Systems engineering student at the Popular University of Cesar, i like programming🖥. i'm in the 5th semester of my career🎓
 
