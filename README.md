@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello Everyone!!! 👋
 
-<!--
-**Ricarsur/Ricarsur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### console.log('My name is Ricardo');
 
-Here are some ideas to get you started:
+Systems engineering student at the Popular University of Cesar, i like programming🖥. i'm in the 5th semester of my career🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social media: 
+-✉ ***Mail:*** ricardojosesuarez17@gmail.com
+
+-🐦***Twitter:*** https://twitter.com/Ricarsur
+
+-📸***Instagram:*** https://www.instagram.com/sou_ricarsur/
+
