@@ -2,7 +2,7 @@
 
 
 
-Systems engineering student at Universidad Popular del Cesar, I like programming🖥. I'm in the 5th semester of my career🎓
+Systems engineering student at Universidad Popular del Cesar, I like programming🖥. I'm in the 8th semester of my career🎓
 
 ### Social media: 
 -✉ ***Mail:*** ricardojosesuarez17@gmail.com
